@@ -5,3 +5,4 @@
 4. <a href="https://owiii.github.io/Layout-marathon/4.%20Animated%20Login%20Form%20Design/" >Animated Login Form</a>
 5. <a href="https://owiii.github.io/Layout-marathon/5.%20Neumorphism%20Radio%20Buttons/" >Neumorphism Radio Buttons</a>
 6. <a href="https://owiii.github.io/Layout-marathon/6.%20Image%20hover%20amazing/" >Image Hover Amazing</a>
+7. <a href="https://owiii.github.io/Layout-marathon/7.%20Parallax%20Effect%20on%20Mousemove/" >Parallax Effect on Mousemove</a>
